@@ -1,0 +1,13 @@
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.csprojAssemblyReference.cache
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.AssemblyInfo.cs
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.exe
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.deps.json
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.runtimeconfig.json
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.runtimeconfig.dev.json
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.dll
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.pdb
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.dll
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.pdb
+C:\Users\facet\Desktop\MyGithubSource\Design-Pattern-Wtih-Net-Core\DesignPatternSamples\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.genruntimeconfig.cache
